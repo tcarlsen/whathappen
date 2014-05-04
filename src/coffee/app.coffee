@@ -1,5 +1,6 @@
 app = angular.module 'app', [
   'ngRoute',
+  'ngSanitize',
   'controllers'
 ]
 
