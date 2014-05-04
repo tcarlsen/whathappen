@@ -54,6 +54,12 @@ gulp.task('doms', function () {
     .pipe(refresh(server));
 });
 
+gulp.task('json', function () {
+  gulp.src(['src/*.json'])
+    .pipe(gulp.dest('app'))
+    .pipe(refresh(server));
+});
+
 gulp.task('watch', function () {
   gulp.watch('src/coffee/**', ['scripts']);
   gulp.watch('src/css/**', ['styles']);
@@ -61,4 +67,4 @@ gulp.task('watch', function () {
   gulp.watch(['src/index.html', 'src/partials/*.html'], ['doms']);
 });
 
-gulp.task('default', ['lr-server', 'scripts', 'styles', 'images', 'doms', 'watch']);
+gulp.task('default', ['lr-server', 'scripts', 'styles', 'images', 'doms', 'json', 'watch']);
