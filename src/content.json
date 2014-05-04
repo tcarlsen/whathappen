@@ -7,7 +7,9 @@
                 "25 years ago",
                 "20 years ago"
             ],
-            "correct": 0
+            "correct": 2,
+            "id": "sport/video/2014/may/01/ayrton-senna-f1-fans-anniversary-death-brazil-video",
+            "sponsored" : false
         },
         {
             "question": "Is there a women's version of the legendary bike race Tour de France?",
@@ -15,7 +17,9 @@
                 "Yes",
                 "No"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "sport/2014/apr/29/tour-de-france-womens-race-podium-boys",
+            "sponsored" : false
         },
         {
             "question": "The US Basketball League NBA has issued a lifetime ban towards Donald Sterling the owner of which NBA club?",
@@ -24,7 +28,9 @@
                 "LA Clippers",
                 "Chicago Bulls"
             ],
-            "correct": 0
+            "correct": 1,
+            "id": "world/2014/apr/29/nba-la-clippers-donald-sterling-lifetime-ban-racist-comments",
+            "sponsored" : false
         }
     ],
     "tech": [
@@ -35,7 +41,9 @@
                 "Green Throttle Games",
                 "Oculus Rift"
             ],
-            "correct": 0
+            "correct": 2,
+            "id": "technology/2014/may/02/facebook-row-games-firm-oculus-rift-john-carmack-id-software",
+            "sponsored" : true
         },
         {
             "question": "A critical security flaw in SSL/TLS encryption was recently discovered. What is the name of the bug?",
@@ -44,7 +52,9 @@
                 "Heartbleed",
                 "Trojan"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "technology/2014/may/02/microsoft-fixes-flaw-in-internet-explorer-on-xp-despite-end-of-security-patches",
+            "sponsored" : false
         },
         {
             "question": "India has a Space probe heading towards one of the planets in our Solar System. What planet is it?",
@@ -53,7 +63,9 @@
                 "Saturn",
                 "Mars"
             ],
-            "correct": 0
+            "correct": 1,
+            "id": "technology/2014/apr/24/heartbleed-why-did-a-computer-bug-have-a-name",
+            "sponsored" : false
         }
 
     ],
@@ -65,7 +77,9 @@
                 "South Korea",
                 "Chile"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "world/2014/may/03/dozens-muslims-killed-ethnic-violence-north-east-india-assam",
+            "sponsored" : false
         },
         {
             "question": "What is NSA´s slogan?",
@@ -74,7 +88,9 @@
                 "Monitoring",
                 "Collect it all"
             ],
-            "correct": 0
+            "correct": 2,
+            "id": "world/2014/may/03/everyone-is-under-surveillance-now-says-whistleblower-edward-snowden",
+            "sponsored" : true
         },
         {
             "question": "Which well known UK TV-Personality is currently on the brink of being sacked after having used the N-word?",
@@ -83,7 +99,9 @@
                 "Jeremy Clarkson",
                 "Jimmy Savile"
             ],
-            "correct": 0
+            "correct": 1,
+            "id": "media/2014/may/03/jeremy-clarkson-given-final-warning-by-the-bbc",
+            "sponsored" : false
         }
     ]
 }
