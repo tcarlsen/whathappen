@@ -1,0 +1,89 @@
+{
+    "sport": [
+        {
+            "question": "The Racedriver Ayrton Senna died in a car crash at the Imola Race track years ago. This week fans mark the anniversary of his death.",
+            "answers": [
+                "30 years ago",
+                "25 years ago",
+                "20 years ago"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Is there a women's version of the legendary bike race Tour de France?",
+            "answers": [
+                "Yes",
+                "No"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "The US Basketball League NBA has issued a lifetime ban towards Donald Sterling the owner of which NBA club?",
+            "answers": [
+                "Atlanta Hawks",
+                "LA Clippers",
+                "Chicago Bulls"
+            ],
+            "correct": 0
+        }
+    ],
+    "tech": [
+        {
+            "question": "Facebook is in a row with a games firm over the purchase of a virtual reality company. What company is it?",
+            "answers": [
+                "IO Interactive",
+                "Green Throttle Games",
+                "Oculus Rift"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "A critical security flaw in SSL/TLS encryption was recently discovered. What is the name of the bug?",
+            "answers": [
+                "Cryptomancer",
+                "Heartbleed",
+                "Trojan"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "India has a Space probe heading towards one of the planets in our Solar System. What planet is it?",
+            "answers": [
+                "Jupiter",
+                "Saturn",
+                "Mars"
+            ],
+            "correct": 0
+        }
+
+    ],
+    "global": [
+        {
+            "question": "Police arrest 22 people and army called in to restore order. 29 people were killed. In which country did this happen?",
+            "answers": [
+                "India",
+                "South Korea",
+                "Chile"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "What is NSA´s slogan?",
+            "answers": [
+                "Gather everything ",
+                "Monitoring",
+                "Collect it all"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Which well known UK TV-Personality is currently on the brink of being sacked after having used the N-word?",
+            "answers": [
+                "Jeremy Paxman",
+                "Jeremy Clarkson",
+                "Jimmy Savile"
+            ],
+            "correct": 0
+        }
+    ]
+}
