@@ -7,6 +7,7 @@
                 "25 years ago",
                 "20 years ago"
             ],
+            "image":"http://upload.wikimedia.org/wikipedia/commons/9/90/Ayrton_Senna_9_-_Cropped.jpg",
             "correct": 2,
             "id": "sport/video/2014/may/01/ayrton-senna-f1-fans-anniversary-death-brazil-video",
             "sponsored" : false
@@ -17,6 +18,7 @@
                 "Yes",
                 "No"
             ],
+            "image":"http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/4/29/1398791351289/Champs-Elys-es-011.jpg",
             "correct": 0,
             "id": "sport/2014/apr/29/tour-de-france-womens-race-podium-boys",
             "sponsored" : false
@@ -28,6 +30,7 @@
                 "LA Clippers",
                 "Chicago Bulls"
             ],
+            "image":"http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/4/29/1398793141229/06f1a7a1-c489-43c0-843f-ebc1e972525b-460x276.jpeg",
             "correct": 1,
             "id": "world/2014/apr/29/nba-la-clippers-donald-sterling-lifetime-ban-racist-comments",
             "sponsored" : false
@@ -41,6 +44,7 @@
                 "Green Throttle Games",
                 "Oculus Rift"
             ],
+            "image":"http://media.heavy.com/media/2012/12/facebookloaded.jpg",
             "correct": 2,
             "id": "technology/2014/may/02/facebook-row-games-firm-oculus-rift-john-carmack-id-software",
             "sponsored" : true
@@ -52,6 +56,7 @@
                 "Heartbleed",
                 "Trojan"
             ],
+            "image":"http://cdn3.dogomedia.com/pictures/3411/content/happy-face-spider.jpg?1285699274",
             "correct": 1,
             "id": "technology/2014/may/02/microsoft-fixes-flaw-in-internet-explorer-on-xp-despite-end-of-security-patches",
             "sponsored" : false
@@ -63,6 +68,7 @@
                 "Saturn",
                 "Mars"
             ],
+            "image":"http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/5/1/1398947264300/india-mars-probe-mangalya-011.jpg",
             "correct": 1,
             "id": "technology/2014/apr/24/heartbleed-why-did-a-computer-bug-have-a-name",
             "sponsored" : false
@@ -77,6 +83,7 @@
                 "South Korea",
                 "Chile"
             ],
+            "image":"http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/5/3/1399111111441/Khatun-is-being-comforted-011.jpg",
             "correct": 0,
             "id": "world/2014/may/03/dozens-muslims-killed-ethnic-violence-north-east-india-assam",
             "sponsored" : false
@@ -88,6 +95,7 @@
                 "Monitoring",
                 "Collect it all"
             ],
+            "image":"http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/5/3/1399111111441/Khatun-is-being-comforted-011.jpg",
             "correct": 2,
             "id": "world/2014/may/03/everyone-is-under-surveillance-now-says-whistleblower-edward-snowden",
             "sponsored" : true
@@ -99,6 +107,7 @@
                 "Jeremy Clarkson",
                 "Jimmy Savile"
             ],
+            "image":"http://www.reconnectingthecircle.com/wp-content/uploads/2013/06/mouth-yellow-420H.jpg",
             "correct": 1,
             "id": "media/2014/may/03/jeremy-clarkson-given-final-warning-by-the-bbc",
             "sponsored" : false
