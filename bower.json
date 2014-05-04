@@ -1,0 +1,11 @@
+{
+  "name": "gamify",
+  "version": "0.0.0",
+  "description": "gamify the news",
+  "private": true,
+  "dependencies": {
+    "jquery": "1.11.0",
+    "circliful": "~0.1.5",
+    "angular": "1.2.16"
+  }
+}

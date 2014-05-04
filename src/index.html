@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en" ng-app="app">
+<head>
+  <meta charset="UTF-8">
+  <title>KnowMedia</title>
+  <link rel="stylesheet" href="styles.min.css" type="text/css" media="screen" title="no title" charset="utf-8">
+  <link rel="stylesheet" href="bower_components/circliful/css/jquery.circliful.css" type="text/css" media="screen" title="no title" charset="utf-8">
+  <link rel="stylesheet" href="http://code.ionicframework.com/ionicons/1.4.1/css/ionicons.min.css" type="text/css" media="screen" title="no title" charset="utf-8">
+</head>
+<body>
+  <content ng-view></content>
+
+  <footer>
+    <div class="topic-charts">
+      <div data-dimension="50" data-text="75" data-width="2" data-fontsize="10" data-percent="75" data-fgcolor="#1AAB4A" data-bgcolor="#333" class="chart"></div>
+      <div data-dimension="50" data-text="17" data-width="2" data-fontsize="10" data-percent="17" data-fgcolor="#14A9CC" data-bgcolor="#333" class="chart"></div>
+      <div data-dimension="50" data-text="32" data-width="2" data-fontsize="10" data-percent="32" data-fgcolor="#EF4466" data-bgcolor="#333" class="chart"></div>
+    </div>
+    <div class="profile">
+      <img src="http://placecage.com/c/100/100" class="avatar">
+    </div>
+  </footer>
+
+  <script src="bower_components/jquery/dist/jquery.min.js"></script>
+  <script src="bower_components/circliful/js/jquery.circliful.min.js"></script>
+  <script src="bower_components/angular/angular.min.js"></script>
+  <script src="bower_components/angular-route/angular-route.min.js"></script>
+  <script src="scripts.min.js"></script>
+  <script>
+    $( document ).ready(function() {
+      $('.chart').circliful();
+    });
+  </script>
+</body>
+</html>

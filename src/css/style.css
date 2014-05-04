@@ -1,0 +1,150 @@
+html {
+  height: 100%;
+}
+
+body {
+  background: #333;
+  color: #fff;
+  font-family: "Helvetica Neue";
+  height: 100%;
+  margin: 0;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.logo {
+  display: inline-block;
+  margin: 0;
+}
+
+.bold {
+  font-weight: 600;
+}
+
+.light {
+  font-weight: 100;
+  font-style: italic;
+}
+
+.topic .icon {
+  float: right;
+  margin-top: 3px;;
+}
+
+.button {
+  display: block;
+  background-color: transparent;
+  border: 1px solid #fff;
+  color: #fff;
+  text-align: left;
+  border-radius: 50px;;
+  margin: 0 auto;
+  cursor: pointer;
+  font-weight: 100;
+}
+
+.topic {
+  font-size: 32px;
+  width: 90%;
+  padding: 5px 25px 5px 25px;
+  margin-bottom: 40px;
+}
+
+.question {
+  position: relative;
+  width: 80%;
+  font-size: 24px;
+  line-height: 24px;
+  font-style: italic;
+  margin: auto;
+  margin-top: -25px;
+  margin-bottom: 40px;
+  font-weight: 100;
+  z-index: 10;
+}
+
+.question-image {
+  position: relative;
+  height: 200px;
+  overflow: hidden;
+}
+
+.question-image img {
+  width: 100%;
+}
+
+.question-image .overlay {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 30px;
+  width: 100%;
+  background-color: #000;
+  opacity: 0.6;
+}
+
+.answers {
+  margin-top: 20px;
+}
+
+.answer {
+  font-size: 18px;
+  width: 70%;
+  padding: 5px 25px 5px 25px;
+  margin-bottom: 20px;
+}
+
+.topic.sport {
+  border-color: #1AAB4A;
+}
+
+.topic.politics {
+  border-color: #14A9CC;
+}
+
+.topic.global {
+  border-color: #EF4466;
+}
+
+.icon.sport {
+  color: #1AAB4A;
+}
+
+.icon.politics {
+  color: #14A9CC;
+}
+
+.icon.global {
+  color: #EF4466;
+}
+
+footer {
+  position: fixed;
+  left: 5%;
+  bottom: 15px;
+  width: 90%;
+}
+
+.profile {
+  float: right;
+}
+
+.avatar {
+  border: 3px solid #fff;
+  border-radius: 50%;
+  height: 65px;
+  width: 65px;
+}
+
+.topic-charts {
+  position: absolute;
+  left: 0;
+  bottom: 2px;
+}
+
+.topic-charts .chart {
+  display: inline-block;
+}
