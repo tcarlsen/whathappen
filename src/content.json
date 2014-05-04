@@ -1,7 +1,7 @@
 {
     "sport": [
         {
-            "question": "The Racedriver Ayrton Senna died in a car crash at the Imola Race track years ago. This week fans mark the anniversary of his death.",
+            "question": "The Racedriver Ayrton Senna died in a car crash at the Imola Race track. How many years ago this week?",
             "answers": [
                 "30 years ago",
                 "25 years ago",
@@ -13,10 +13,11 @@
             "sponsored" : false
         },
         {
-            "question": "Is there a women's version of the legendary bike race Tour de France?",
+            "question": "Is there a women's version of the legendary bike race Tour de France this year?",
             "answers": [
                 "Yes",
-                "No"
+                "No",
+                "Mixed, men and women"
             ],
             "image":"http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/4/29/1398791351289/Champs-Elys-es-011.jpg",
             "correct": 0,
@@ -24,7 +25,7 @@
             "sponsored" : false
         },
         {
-            "question": "The US Basketball League NBA has issued a lifetime ban towards Donald Sterling the owner of which NBA club?",
+            "question": "The US Basketball League NBA has issued a lifetime ban towards the owner of which club?",
             "answers": [
                 "Atlanta Hawks",
                 "LA Clippers",
@@ -77,7 +78,7 @@
     ],
     "global": [
         {
-            "question": "Police arrest 22 people and army called in to restore order. 29 people were killed. In which country did this happen?",
+            "question": "22 people where arrested and 29 people were killed. In which country did this happen?",
             "answers": [
                 "India",
                 "South Korea",
@@ -92,7 +93,7 @@
             "question": "What is NSA´s slogan?",
             "answers": [
                 "Gather everything ",
-                "Monitoring",
+                "Monitoring 24/7",
                 "Collect it all"
             ],
             "image":"http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/5/3/1399111111441/Khatun-is-being-comforted-011.jpg",
