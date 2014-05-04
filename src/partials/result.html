@@ -1,1 +1,11 @@
-<h1>Great</h1>
+<div class="scoreboard">
+  <div class="stars" ng-show="correctAnswers == questions.length">
+    <img src="img/star_high.png" class="star">
+    <img src="img/star_high.png" class="star">
+    <img src="img/star_high.png" class="star">
+    <div class="overlay"></div>
+  </div>
+  <div data-dimension="200" data-text="{{correctAnswers}}/{{questions.length}}" data-info="correct answers" data-width="5" data-fontsize="36" data-percent="{{correctAnswers/questions.length*100|number:0}}" data-fgcolor="#14A9CC" data-bgcolor="#333" class="chart"></div>
+</div>
+<button class="done button" ng-show="correctAnswers == questions.length" ng-click="done()">DONE</button>
+<button class="done button" ng-show="correctAnswers != questions.length" ng-click="go()">WHAT</button>

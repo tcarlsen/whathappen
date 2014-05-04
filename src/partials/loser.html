@@ -1,0 +1,15 @@
+<div class="checklist">
+  <div class="item" ng-repeat="question in questions" ng-class="{'fade': question.selected == question.correct}">
+    <span>{{$index + 1}}</span>
+    <i ng-show="question.selected == question.correct" class="icon ion-ios7-checkmark-outline correct"></i>
+    <i ng-show="question.selected != question.correct" class="icon ion-ios7-close-outline incorrect"></i>
+    <button class="button" ng-click="open(question.id)">Article</button>
+  </div>
+</div>
+
+<button class="done button" ng-click="done()">DONE</button>
+
+<div class="article">
+  <button class="button close" ng-click="close()"><i class="icon ion-chevron-left"></i></button>
+  <div ng-bind-html="article"></div>
+</div>
